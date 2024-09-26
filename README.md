@@ -53,4 +53,5 @@ This project provides a comprehensive analysis of Organization X's financial per
 
 
 **References**
-www.superdatascience.com
+Kirill Eremenko, www.superdatascience.com
+
